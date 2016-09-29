@@ -1,0 +1,17 @@
+Important Things - Checklist
+------------------------------------------------------------------------------------------------------------------------------
+
++ collision.js
+	>	contains the context.getImageData() code where we check for pixel-perfect collision
+
++ enemies.js
+	> contains code to calculate angle from location to player
+
++ keyHandler.js
+	> contains all of the keyPressed and keyReleased handler code
+
++ grid.js
+	> handles the rendering code to generate the grid around the player to provide a reference point for movement
+
++ meteoroids_js.js
+	> the overarching javascript file, all other files take part in running the code that is in this file
