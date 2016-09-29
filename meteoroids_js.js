@@ -7,6 +7,7 @@ var previousWindowSize;
 var fontSize;
 var fontType;
 
+// useless comment
 var debug = false;
 var started = false;
 var paused = false;
